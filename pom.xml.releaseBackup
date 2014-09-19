@@ -3,7 +3,7 @@
 
   <groupId>com.github.sheetaldolas</groupId>
   <artifactId>storm-hbase</artifactId>
-  <version>0.0.5-SNAPSHOT</version>
+  <version>0.0.3-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>storm-hbase</name>
   <description>A storm bolt for connecting to HBase</description>
